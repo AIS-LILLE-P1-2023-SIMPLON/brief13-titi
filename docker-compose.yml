@@ -11,7 +11,7 @@ services:
       - PS_DEV_MODE=1
       - PS_DEMO_MODE=1
       - PS_INSTALL_AUTO=1
-      - PS_DOMAIN=localhost:8080
+      - PS_DOMAIN=mysiteprestashop:8080
       - PS_FOLDER_ADMIN=admin
       - ADMIN_MAIL=demo@prestashop.com
       - ADMIN_PASSWD=prestashop_demo
